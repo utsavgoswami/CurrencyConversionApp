@@ -42,13 +42,12 @@
         android:layout_marginEnd="160dp"
         android:layout_marginRight="160dp"
         android:layout_marginBottom="208dp"
-        android:onClick="convert"
         android:text="Convert!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/spinner5"
+        app:layout_constraintTop_toBottomOf="@+id/convertSpinner"
         app:layout_constraintVertical_bias="0.316" />
 
     <EditText
@@ -64,7 +63,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <Spinner
-        android:id="@+id/spinner5"
+        android:id="@+id/convertSpinner"
         android:layout_width="145dp"
         android:layout_height="42dp"
         android:layout_marginTop="16dp"
@@ -75,7 +74,7 @@
         app:layout_constraintVertical_bias="0.027" />
 
     <Spinner
-        android:id="@+id/spinner6"
+        android:id="@+id/baseSpinner"
         android:layout_width="145dp"
         android:layout_height="42dp"
         android:layout_marginStart="16dp"

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="available_currencies">
+        <item>AED: UAE Dirham</item>
+        <item>ARS: Argentine Peso</item>
+        <item>AUD: Australian Dollar</item>
+        <item>BGN: Bulgarian Lev</item>
+        <item>BRL: Brazilian Real</item>
+        <item>BSD: Bahamian Dollar</item>
+        <item>CAD: Canadian Dollar</item>
+        <item>CHF: Swiss Franc</item>
+        <item>CLP: Chilean Peso</item>
+        <item>CNY: Chinese Renminbi</item>
+        <item>COP: Colombian Peso</item>
+        <item>CSK: Czech Koruna</item>
+    </string-array>
+</resources>
